@@ -1,4 +1,4 @@
-const percent = 0.05:
+const percent = 0.05;
 const minsale = 10000;
 export function calculateBonus(sales) {
     let bonus = 0;
