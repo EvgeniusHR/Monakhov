@@ -1,1 +1,1 @@
-# Project Sample [![Build Status](https://travis-ci.org/EvgeniusHR/Monakhov.svg?branch=master)](https://travis-ci.org/EvgeniusHR/Monakhov)
+# Project Sample [![Build Status](https://travis-ci.org/EvgeniusHR/Monakhov.svg?branch=master)](https://travis-ci.org/EvgeniusHR/Monakhov)[![codecov](https://codecov.io/gh/EvgeniusHR/Monakhov/branch/master/graph/badge.svg)](https://codecov.io/gh/EvgeniusHR/Monakhov)
